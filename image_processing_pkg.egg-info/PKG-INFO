@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: image_processing_pkg
+Version: 0.1
+Summary: A simple image processing package
+Home-page: https://github.com/seuperfil/image_processing_pkg
+Author: Seu Nome
+Author-email: seuemail@exemplo.com
+Requires-Dist: Pillow
